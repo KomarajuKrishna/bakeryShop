@@ -1,0 +1,14 @@
+.bg-navbar {
+  background-color: lightblue;
+  margin: 0px;
+  height: 60px;
+  padding: 0px;
+}
+
+.nav-items{
+	margin-left: auto;
+}
+.logo{
+	width: 60px;
+	margin-left: 10px;
+}
